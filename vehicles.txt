@@ -1,4 +1,1 @@
-bike
-moto bike
-car
-helicopter
+The catalog car is empty!
